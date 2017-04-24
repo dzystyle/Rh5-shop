@@ -1,0 +1,50 @@
+.wx-goods-search-page {
+  font-size: .24rem;
+  height: 100%;
+  width: 100%;
+  
+    @media screen and (device-aspect-ratio: 40/71) {
+        .rsale{
+            margin-left:0.3rem !important
+        }
+    }
+  .am-list-view-scrollview-content{
+      position: static !important;
+  }
+  .wx-goods-search-header {
+    background-color: red;
+    font-size: .28rem;
+    height: 1rem;
+    line-height: 1rem;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    position: fixed;
+    top: 0.9rem;
+    left: 0;
+    z-index: 998;
+
+    .wx-goods-search-order {
+      position: relative;
+      top: .1rem;
+      display: inline-block;
+
+      .wx-goods-search-order-up {
+        display: block;
+        width: .2rem;
+        height: .2rem;
+        &.selected {
+          color: red;
+        }
+      }
+      .wx-goods-search-order-down {
+        display: block;
+        width: .2rem;
+        height: .2rem;
+        &.selected {
+          color: red;
+        }
+      }
+    }
+  }
+}
