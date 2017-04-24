@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="c0ccf330-6173-453f-bfeb-50932dd30905" name="Default" comment="" />
+    <ignored path="react_h5.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="react_h5" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="851" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_h5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../parasol" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/assets/img/goodsClass.png</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/assets/img/my-selected.png</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/assets/img/home-selected.png</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/assets/img/cart-selected.png</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/assets/img/my.png</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/assets/img/goodsClass-selected.png</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/assets/img/home.png</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/assets/img/cart.png</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/container/appView.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/common/common.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/common/fetch.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/common/components/RecommendGoods.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/common/components/CartBar.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/common/components/CouponList.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/circle/routes/circleDetail.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/circle/routes/circleCreate.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/circle/routes/my.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/circle/routes/postings.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/circle/routes/index.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/circle/routes/circle.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/circle/routes/replys.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/circle/routes/circle.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/attention.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/orderList.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/index.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/viewRecord.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/address/addressEdit.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/address/addressAdd.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/store/store.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/store/storeGoods.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/store/store.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/store/storeDetail.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/store/storeNewGoods.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/account/accountSafe.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/my.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/afterSale/afterSale.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/afterSale/progressDetail.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/afterSale/returnGoods.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/afterSale/applyAfterSale.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/afterSale/changeGoods.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/goodsSearch.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/gotoSearch.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/attention.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/goodsSearch.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/comment.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/components/HomeNewGoodsBlock.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/components/HomePromotionBlock.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/components/AfterSaleOrderItem.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/components/GoodsSearchSpecFilter.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/components/OrderItem.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/components/HomeCarouselBlock.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/components/GoodsSearch.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/api/member.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/api/store.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/login/routes/forgetPassword.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/cart/components/CartShop.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/content/routes/content.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/content/routes/contentDetail.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/order.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/index.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/addressEdit.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/order.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/invoice.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/addressAdd.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/cashier.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/paySuccess.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/components/Shop.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/api/order.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/groupBuy/routes/groupBuy.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/groupBuy/components/GoodsList.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/goodsDetail/routes/goodsDetail.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/goodsDetail/routes/evaluteList.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/goodsDetail/routes/consultEdit.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/goodsDetail/routes/consultList.less</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/goodsDetail/routes/goodsDetail.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/goodsDetail/routes/evaluteList.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/goodsDetail/routes/consultList.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/goodsDetail/components/GoodsSpec.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/goodsDetail/components/GoodsList.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/webpack.dev.config.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/assets/img/successPay.png</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/circle/routes/postingsCreate.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/home/routes/account/createPayword.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/payConfirm.js</PATH>
+          <PATH vcs="svn" revision="57">$PROJECT_DIR$/src/modules/order/routes/cashierList.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0ccf330-6173-453f-bfeb-50932dd30905" name="Default" comment="" />
+      <created>1492396752450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492396752450</updated>
+      <workItem from="1492396753763" duration="651000" />
+      <workItem from="1493038073412" duration="118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="769000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="851" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
