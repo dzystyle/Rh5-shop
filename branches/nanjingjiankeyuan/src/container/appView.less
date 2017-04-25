@@ -113,33 +113,33 @@ body,
     margin-right: 0.5em;
   }
   .am-tabs-bar .am-tabs-tab-active {
-      color: #E43F47;
-    }
+    color: #E43F47;
+  }
   .am-tabs-ink-bar {
-      position: absolute;
-      bottom: 0;
-      height: 4px;
-      background-color: #E43F47;
-    }
+    position: absolute;
+    bottom: 0;
+    height: 4px;
+    background-color: #E43F47;
+  }
   .am-list-item .am-list-line{
-        padding-right: 30px;
-        padding-left: 0;
-        padding-top: 0;
-        padding-bottom: 0;
-    }  
-    /*.am-flexbox .am-flexbox-item:first-child{
-        margin-left: 0.3rem;
-    }*/
+    padding-right: 30px;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  /*.am-flexbox .am-flexbox-item:first-child{
+      margin-left: 0.3rem;
+  }*/
 }
 
 .wx-navbar {
-  height: 0.9rem;
+  height: 0.8rem;
   width: 100%;
   position: fixed;
   left: 0;
   top: 0;
   z-index: 100;
-  background-color:#E43F47;
+  background-color:#1786cd;
   color: white;
   .am-navbar-title {
     font-size: .32rem;
@@ -150,7 +150,7 @@ body,
     width: .44rem;
     height: .44rem;
   }
-  
+
 }
 
 .wx-content {
@@ -196,8 +196,8 @@ body,
 
 
 #root .am-menu .am-flexbox .am-flexbox-item:last-child .am-list .am-list-item.am-sub-menu-item-selected .am-list-line .am-list-content {
-    color: #E43F47;
-    }
+  color: #E43F47;
+}
 #root .am-search-input .am-search-synthetic-ph-icon {
   display: inline-block;
   margin-top: 0.15rem;
@@ -209,4 +209,63 @@ body,
   background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D'38'%20height%3D'36'%20viewBox%3D'0%200%2038%2036'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cpath%20d%3D'M29.05%2025.23a15.81%2015.81%200%200%200%203.004-9.294c0-8.8-7.17-15.934-16.017-15.934C7.192.002.02%207.136.02%2015.936c0%208.802%207.172%2015.937%2016.017%2015.937%204.148%200%207.928-1.569%2010.772-4.143l8.873%208.232%202.296-2.45-8.927-8.282zM16.2%2028.933c-7.19%200-13.04-5.788-13.04-12.903%200-7.113%205.85-12.904%2013.04-12.904%207.19%200%2012.9%205.79%2012.9%2012.904%200%207.115-5.71%2012.903-12.9%2012.903z'%20fill%3D'%23bbbbbb'%20fill-rule%3D'evenodd'%2F%3E%3C%2Fsvg%3E");
   background-repeat: no-repeat;
   background-size: 0.3rem auto;
+}
+//新的样式
+.wx-content.wx-content-hastitle{
+  padding-top: 0.8rem;
+}
+.wx-navbar .am-navbar-title{
+  font-size: 0.30rem;
+  font-weight: 500;
+}
+.am-list-item .am-input-control input{
+  font-size: 0.26rem !important;
+}
+body .am-button-primary, #root .am-button-primary, #container .am-button-primary{
+  background-color: #1786cd;
+  border: 1PX solid #1786cd;
+}
+body .am-list-item .am-list-line .am-list-content, #root .am-list-item .am-list-line .am-list-content, #container .am-list-item .am-list-line .am-list-content, body .am-list-item .am-list-line .am-list-extra, #root .am-list-item .am-list-line .am-list-extra, #container .am-list-item .am-list-line .am-list-extra, body .am-button, #root .am-button, #container .am-button{
+  font-size: 0.30rem !important;
+}
+.wx-reg .am-list-item .am-input-extra{
+  background-color: #1786cd !important;
+  border-radius: 6px;
+  font-size: 0.30rem !important;
+}
+input:-webkit-autofill{
+  background-color: #fff !important;
+}
+//个人中心
+.fix-scroll.hastitle{
+  padding-top:0.8rem !important;
+}
+.wx-my{
+  padding-top: 0.8rem !important;
+}
+//收获地址
+.am-list-item .am-list-line .am-list-content{
+  color: #333 !important;
+}
+.d-adrsm .am-list-line-multiple {
+  padding-top: 0.1rem !important;
+  padding-bottom: 0.1rem !important;
+
+}
+.am-list-item{
+  //min-height: 160px !important;
+}
+.d-adrsd{
+  float: right;
+}
+.d-adrsbtnb{
+  width:1.1rem;
+  float: right;
+}
+.d-adrsbtnd{
+  width: 1.1rem;
+  float: right;
+}
+.d-adrsbtnt{
+  color: #999;
 }
