@@ -33,12 +33,12 @@ function parseJSON(response) {
 }
 
 export function get(requestUrl, params) {
-  const baseParams = {
-    timestamp: new Date().getTime()
-  };
+  //const baseParams = {
+  //  timestamp: new Date().getTime()
+  //};
 
   params = {
-    ...baseParams,
+    //...baseParams,
     ...params
   }
   let url = getFullUrl(requestUrl);

@@ -84,23 +84,31 @@ class Address extends Component {
   render() {
     const { addressList } = this.state;
     return <div className='wx-addresslist fix-scroll hastitle'>
-      <div style={{marginBottom:'0.84rem'}}>
+      <div className="d-adrsm" style={{marginBottom:'0.84rem'}}>
           {
               addressList.map(address => {
                   return <List key={address.addressId}>
                     <Item multipleLine>
-                        {address.trueName} &nbsp;&nbsp; {address.mobPhone}  <Brief>{address.areaInfo} {address.address}</Brief>
+                        {address.trueName} &nbsp;&nbsp;
+          <div className="d-adrsd">
+              <Flex.Item>
+              <AgreeItem checked={address.isDefault==1} onChange={() => this.setDefault(address)}>
+            默认
+            </AgreeItem>
+            </Flex.Item>
+            </div> {address.mobPhone}
+
+
+
+            <Brief>{address.areaInfo} {address.address}</Brief>
+
                     </Item>
                     <Item>
                       <Flex>
-                        <Flex.Item>
-                          <AgreeItem checked={address.isDefault==1} onChange={() => this.setDefault(address)}>
-                            设置默认
-                          </AgreeItem>
-                        </Flex.Item>
+
                         <Flex.Item style={{textAlign:'right'}}>
-                          <Button type='primary' size='small' onClick={()=>this.gotoEdit(address)} inline>编辑</Button>&nbsp;
-                          <Button type='primary' size='small' onClick={()=>this.gotoDel(address)} inline>删除</Button>
+                          <div className="d-adrsbtnd" type='primary' size='small' onClick={()=>this.gotoDel(address)} inline><div style={{ backgroundImage: 'url(./assets/img/shanchu.png)', backgroundSize: 'cover', height: '0.24rem', width: '0.19rem',float:'left',marginTop:'0.1rem',marginLeft:'0.1rem' }} /><div className="d-adrsbtnt">删除</div></div>
+                          <div className="d-adrsbtnb" type='primary' size='small' onClick={()=>this.gotoEdit(address)} inline><div style={{ backgroundImage: 'url(./assets/img/bianji.png)', backgroundSize: 'cover', height: '0.24rem', width: '0.24rem',float:'left',marginTop:'0.1rem',marginLeft:'0.1rem' }} /><div className="d-adrsbtnt">编辑</div></div>
                         </Flex.Item>
                       </Flex>
                     </Item>
