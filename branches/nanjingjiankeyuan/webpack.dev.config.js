@@ -24,7 +24,7 @@ var proxyInterface = ['/floor/api',
 var proxy = {};
 proxyInterface.forEach(function(item) {
   proxy[item] = {
-    target: 'http://192.168.1.11',
+    target: 'http://testbbc.leimingtech.com',
     changeOrigin: true,
     logLevel: 'debug'
   };
