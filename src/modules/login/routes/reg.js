@@ -108,13 +108,13 @@ class Reg extends Component {
           {...getFieldProps('mobile') }
           clear
           placeholder="请输入手机号">
-              <div style={{ backgroundImage: 'url(https://zos.alipayobjects.com/rmsportal/DfkJHaJGgMghpXdqNaKF.png)', backgroundSize: 'cover', height: '0.44rem', width: '0.44rem' }} />
+              <div style={{ backgroundImage: 'url(./assets/img/shouji.png)', backgroundSize: 'cover', height: '0.35rem', width: '0.24rem' }} />
               </InputItem>
               <InputItem {...getFieldProps('password') } placeholder="请输入密码" type="password">
-      <div style={{ backgroundImage: 'url(https://zos.alipayobjects.com/rmsportal/DfkJHaJGgMghpXdqNaKF.png)', backgroundSize: 'cover', height: '0.44rem', width: '0.44rem' }} />
+      <div style={{ backgroundImage: 'url(./assets/img/mima.png)', backgroundSize: 'cover', height: '0.36rem', width: '0.23rem' }} />
       </InputItem>
       <InputItem {...getFieldProps('password2') } placeholder="请确认密码" type="password">
-      <div style={{ backgroundImage: 'url(https://zos.alipayobjects.com/rmsportal/DfkJHaJGgMghpXdqNaKF.png)', backgroundSize: 'cover', height: '0.44rem', width: '0.44rem' }} />
+      <div style={{ backgroundImage: 'url(./assets/img/mima.png)', backgroundSize: 'cover', height: '0.36rem', width: '0.23rem' }} />
       </InputItem>
         <InputItem
           {...getFieldProps('code') }
