@@ -320,17 +320,23 @@ class Order extends Component {
           multipleLine>
           {
             selectedAddress ?<div>
-              {selectedAddress.mobPhone}&nbsp;&nbsp; {selectedAddress.trueName}
+            <div style={{height: '0.6rem', width: '0.6rem',float:'left'}}>
+          <div className="qrdd-dd" style={{ backgroundImage: 'url(./assets/img/dingwei.png)', backgroundSize: 'cover', height: '0.33rem', width: '0.25rem',float:'left',marginTop:'0.4rem',marginLeft:'0.1rem' }}></div>
+          </div>
+  {selectedAddress.trueName}&nbsp;&nbsp;<div style={{float:'left', fontSize:'0.32rem',fontweight:'600',paddingRight:'0.4rem'}}>报告接收人</div> {selectedAddress.mobPhone}
               <Brief>{selectedAddress.areaInfo} {selectedAddress.address}</Brief>
             </div>: '请选择地址'
           }
         </Item>
       </List>
+  <List>
       {
         cartVoList.map((shop, index) => {
-            return <Shop updateShip={this.updateShip} key={index} data={shop}></Shop>
+            return <Shop  updateShip={this.updateShip} key={index} data={shop}></Shop>
+
         })
       }
+</List>
       <List>
         <Item
           onClick={this.onSelectPayTypeClick}  
