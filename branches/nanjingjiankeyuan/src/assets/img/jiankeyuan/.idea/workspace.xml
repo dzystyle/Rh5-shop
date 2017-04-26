@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="6ac7c73f-b7af-4511-bc00-e33bfca00f4b" name="Default" comment="" />
+    <ignored path="jiankeyuan.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jiankeyuan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/container/appView.less" />
+        <option value="$PROJECT_DIR$/src/modules/login/routes/login.js" />
+        <option value="$PROJECT_DIR$/src/modules/login/routes/reg.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jiankeyuan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jiankeyuan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jiankeyuan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="E:\my tool\node.exe" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\.babelrc</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\README.md</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\jsconfig.json</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\package.json</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\postcss.config.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\css</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\css\base.css</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\WechatIMG96.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\WechatIMG97.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\WechatIMG98.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\blue_line.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\cart-selected.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\cart.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\circle.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\clothingIcon.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\content.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\floor.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\goodsClass-selected.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\goodsClass.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\gray_line.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\home-selected.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\home.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\img_default.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\iv_qz.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\mine_manage.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\mine_order.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\mine_topbackimage.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\my-selected.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\my.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\img\successPay.png</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\Scan.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\category.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\comment.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\delete.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\details.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\ellipsis.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\help.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\left.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\plus.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\search.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\setting.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\share.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\user.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\assets\svg\菜单1.svg</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\Startup.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\api\base.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\api\cart.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\api\goods.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\api\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\api\member.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\api\store.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\common.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\components</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\components\CartBar.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\components\CartBar.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\components\CouponList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\components\CouponList.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\components\Img.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\components\RecommendGoods.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\components\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\fetch.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\common\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\container</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\container\BottomBar.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\container\BottomBar.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\container\appView.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\container\appView.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\api\cart.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\api\store.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\components</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\components\CartShop.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\components\CartShop.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\components\CartTopAction.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\routes\cart.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\routes\cart.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\cart\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\api\circle.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\circle.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\circle.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\circleCreate.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\circleDetail.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\circleList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\circleSearch.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\comments.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\my.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\postings.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\postingsCreate.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\postingsList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\postingsSearch.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\circle\routes\replys.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\api\content.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\routes\comments.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\routes\content.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\routes\content.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\routes\contentDetail.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\content\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\api\goods.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\components</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\components\GoodsClassMenu.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\components\GoodsList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\routes\goodsClass.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\routes\goodsClass.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsClass\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\api\cart.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\api\goodsDetail.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\api\store.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\components</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\components\EvaluateGoodsList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\components\GoodsList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\components\GoodsMoreInfo.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\components\GoodsSpec.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\components\GoodsSpec.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\components\StoreInfo.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\routes\consultEdit.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\routes\consultList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\routes\consultList.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\routes\evaluteList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\routes\evaluteList.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\routes\goodsDetail.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\routes\goodsDetail.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\goodsDetail\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\api\groupBuy.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\components</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\components\GoodsList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\routes\groupBuy.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\routes\groupBuy.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\groupBuy\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api\address.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api\area.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api\cart.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api\coupon.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api\goods.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api\member.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api\order.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\api\store.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\AfterSaleOrderItem.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\CommentImg.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\GoodsInfo.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\GoodsSearch.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\GoodsSearch.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\GoodsSearchSpecFilter.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\GoodsSearchSpecFilter.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\HomeCarouselBlock.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\HomeCarouselBlock.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\HomeFloorGoods.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\HomeFunctionBlock.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\HomeFunctionBlock.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\HomeNewGoodsBlock.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\HomePromotionBlock.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\OrderItem.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\components\ProgressItem.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\account.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\account.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\accountSafe.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\accountSafe.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\balance.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\createPayword.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\lockBalance.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\recharge.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\recharge.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\updateNickName.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\account\updatePassword.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\address</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\address\address.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\address\address.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\address\addressAdd.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\address\addressEdit.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\afterSale.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\afterSale.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\applyAfterSale.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\applyAfterSale.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\changeGoods.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\progress.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\progress.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\progressDetail.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\returnDetail.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\afterSale\returnGoods.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\attention.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\attention.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\comment.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\comment.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\commentList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\coupon.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\coupon.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\goodsSearch.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\goodsSearch.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\gotoSearch.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\home.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\home.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\my.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\my.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\myIntegral.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\orderDetail.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\orderDetail.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\orderList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\orderList.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\store</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\store\store.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\store\store.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\store\storeCoupon.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\store\storeDetail.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\store\storeGoods.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\store\storeNewGoods.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\home\routes\viewRecord.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\api\login.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\routes\forgetPassword.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\routes\login.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\routes\login.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\routes\reg.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\login\routes\reg.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\api\address.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\api\area.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\api\order.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\components</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\components\Fee.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\components\OrderBar.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\components\OrderBar.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\components\Shop.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\reducers\order.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\address.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\address.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\addressAdd.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\addressEdit.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\cashier.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\cashierList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\coupon.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\invoice.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\order.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\order.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\payConfirm.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\paySuccess.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\store.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\order\routes\subDeliveryOrderSuccess.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\api</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\api\timeBuy.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\components</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\components\GoodsList.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\reducers</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\reducers\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\routes</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\routes\index.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\routes\timeBuy.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\modules\timeBuy\routes\timeBuy.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\pages</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\pages\temp.html</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\styles</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\src\styles\base.less</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\webpack.common.config.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\webpack.dev.config.js</PATH>
+          <PATH vcs="svn" revision="72">E:\work pro\shop\jiankeyuan\webpack.pro.config.js</PATH>
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jiankeyuan" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Users\hy\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\work pro\shop\jiankeyuan" />
+          <option name="myCopyRoot" value="E:\work pro\shop\jiankeyuan" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\work pro\shop\jiankeyuan" />
+          <option name="myCopyRoot" value="E:\work pro\shop\jiankeyuan" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ac7c73f-b7af-4511-bc00-e33bfca00f4b" name="Default" comment="" />
+      <created>1493117117587</created>
+      <option name="number" value="Default" />
+      <updated>1493117117587</updated>
+      <workItem from="1493117118785" duration="2170000" />
+    </task>
+    <task id="LOCAL-00001" summary="全局样式问题">
+      <created>1493117664139</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493117664139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="登陆问题">
+      <created>1493117829249</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1493117829249</updated>
+    </task>
+    <task id="LOCAL-00003" summary="注册页面">
+      <created>1493117881109</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493117881110</updated>
+    </task>
+    <task id="LOCAL-00004" summary="删除文件">
+      <created>1493171837109</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1493171837109</updated>
+    </task>
+    <task id="LOCAL-00005" summary="删除文件">
+      <created>1493171861104</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1493171861104</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2170000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36836404" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45937163" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27735645" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="全局样式问题" />
+    <MESSAGE value="登陆问题" />
+    <MESSAGE value="注册页面" />
+    <MESSAGE value="删除文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除文件" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/container/appView.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.92231405">
+          <caret line="271" column="0" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/login/routes/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2517321">
+          <caret line="65" column="66" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

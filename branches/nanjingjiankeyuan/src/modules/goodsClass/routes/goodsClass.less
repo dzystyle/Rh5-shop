@@ -1,0 +1,69 @@
+html,
+#root,
+#container,
+.wx-content,
+.wx-goods-class {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.wx-goods-class {
+  display: flex;
+
+  .wx-goods-class-menu {
+    width: 1.6rem;
+    height: 100%;
+
+    .am-flexbox-item {
+      overflow-y: hidden!important;
+    }
+    .am-menu {
+      height: 100%; // padding-bottom: 0.9rem;
+    }
+    .am-radio-inner {
+      display: none;
+    }
+    .am-list-content {
+      text-align: center;
+    }
+    .am-list-item {
+      padding-left: 0;
+      .am-list-line {
+        padding-right: 0;
+      }
+    }
+  }
+
+  .wx-goods-class-list {
+    flex: 1;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    .am-grid .am-flexbox .am-flexbox-item .am-grid-item-contain .am-grid-icon {
+      height: 1rem;
+      width: 1rem;
+    }
+
+    .am-flexbox-item {
+      overflow-y: hidden;
+    }
+  }
+   
+  .am-menu .am-flexbox .am-flexbox-item .am-list .am-list-item .am-list-line .am-list-content {
+    font-size: .30rem;
+  }
+    
+  .am-grid .am-flexbox .am-flexbox-item .am-grid-item-contain.column-num-3 .am-grid-text {
+    font-size: .25rem;
+  }
+
+  .am-menu .am-flexbox .am-flexbox-item:only-child .am-list .am-list-item:last-child:after {
+    border-bottom: none;
+  }
+  @media screen and (device-aspect-ratio: 40/71) {
+        .am-grid .am-flexbox .am-flexbox-item .am-grid-item-contain.column-num-3 .am-grid-text {
+            font-size: .22rem;
+          }
+    }
+}
