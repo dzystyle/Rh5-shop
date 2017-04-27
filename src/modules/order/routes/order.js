@@ -343,7 +343,7 @@ class Order extends Component {
     extra={invoiceShow}>
       发票信息
       </Item>
-        <Item style={{color:'red'}} extra={`¥${priceData.totalGoodsPrice}`}>商品总价</Item>
+        <Item className="comprice" extra={`¥${priceData.totalGoodsPrice}`}>商品总价</Item>
         <Item
           onClick={this.onSelectPayTypeClick}  
           arrow="horizontal"
