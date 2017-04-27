@@ -329,6 +329,7 @@ class Order extends Component {
           }
         </Item>
       </List>
+  <WhiteSpace></WhiteSpace>
   <List>
       {
         cartVoList.map((shop, index) => {
@@ -336,6 +337,7 @@ class Order extends Component {
         })
       }
 </List>
+  <WhiteSpace></WhiteSpace>
       <List>
     <Item
     onClick={()=>this.onClickInvoice(invoiceShow)}
@@ -343,47 +345,21 @@ class Order extends Component {
     extra={invoiceShow}>
       发票信息
       </Item>
-        <Item className="comprice" extra={`¥${priceData.totalGoodsPrice}`}>商品总价</Item>
-        <Item
-          onClick={this.onSelectPayTypeClick}  
-          arrow="horizontal"
-          extra={paytype==1?'在线支付':'货到付款'}
-          >
-          支付方式
-        </Item>
-        <Item
-          onClick={this.onClickCoupon}  
-          arrow="horizontal"
-          extra={couponShow}
-          >
-          优惠券
-        </Item>
-        <Item
-          extra={<div><Switch checked={isPd == 1} onChange={this.onChangePd} /></div>}
-        >余额支付</Item>
-        <Item
-          extra={memberAvailable}
-        >&nbsp;</Item>
-
-      </List>
+        </List>
+        <WhiteSpace></WhiteSpace>
+        <List>
+        <Item className="comprice" extra={`¥${priceData.totalGoodsPrice}`}>总价</Item>
+        </List>
       <WhiteSpace></WhiteSpace>
-      <Flex>
-        <Flex.Item style={{flex:2.5,borderRight: '1px solid #ddd'}}>
-          <List className="extrared">
-            <Item extra={`¥${priceData.totalGoodsPrice}`}>商品总价</Item>
-            <Item extra={`+ ¥${priceData.totalFreight}`}>运费</Item>
-            <Item extra={`- ¥${priceData.predepositAmount}`}>余额支付</Item>
-            <Item extra={`- ¥${priceData.couponPrice}`}>抵用券</Item>
-            <Item extra={`- ¥${priceData.conditionPrice}`}>优惠促销</Item>
+      <List>
+      <Item onClick={() => this.selectPayType(1)} className="comprice" >微信支付</Item>
+      <Item onClick={() => this.selectPayType(2)} className="comprice" >线下定期结算</Item>
+      <Item onClick={() => this.selectPayType(2)} className="comprice" >线下结算</Item>
+      </List>
+        <List>
           </List>
-        </Flex.Item>
-        <Flex.Item style={{ flex: 1,background:'#fff'}}>
-          <div>
-            <div style={{height:'1.5rem',textAlign:'center',lineHeight:'2.5rem'}}>共需支付</div>
+      <WhiteSpace></WhiteSpace>
 
-          </div>
-        </Flex.Item>
-        </Flex>
       </div>  
       <OrderBar onSubmitOrder={this.onSubmitOrder} totalPrice={priceData.totalPrice}></OrderBar>
     </div>
