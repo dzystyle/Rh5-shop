@@ -75,11 +75,21 @@ class Shop extends Component {
       }
     }
 
-    return <List className='wx-order-shop' renderHeader={() => data.storeName}> 
+    return  <List className='wx-order-shop'>
+      <Item style={{ float:'left', }}>
+     <Flex className="dshopicon" style={{backgroundImage: 'url(./assets/img/dianpu.png)', backgroundSize: 'cover',width:'0.3rem',height:'0.26rem'}}> </Flex>
+  </Item>
+    <Item className="newshopN">
       {
+      data.storeName
+      }
+    </Item>
+      {
+
         data.list.map((item,index) => {
           const showShip = null
-          return <div key={index}><Item
+          return <div key={index}>
+          <Item
             onClick={()=>this.gotoGoodsDetail(item)}  
             arrow="horizontal"
             multipleLine>
