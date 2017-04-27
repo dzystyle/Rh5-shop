@@ -94,10 +94,15 @@ class Shop extends Component {
             arrow="horizontal"
             multipleLine>
             <Flex>
-              <Img src={item.goodsImages} style={{height:'200px',width:'200px'}}/>
-              <div>
-                <Brief style={{paddingLeft:'20px'}}>数量: {item.goodsNum}</Brief>
-                <br/>
+            <Img src={item.goodsImages} style={{height:'200px',width:'200px'}}/>
+            <div className="dnitemif">
+            <div className="fon26">玩具产品检测服务</div>
+            <div className="fon24" >套餐一</div>
+            <div className="fon24" >纸制造正副本</div>
+            </div>
+              <div className="dnitempic">
+                <Brief style={{ paddingLeft:'20px',float:'left'}}>{item.goodsNum}</Brief>
+
                 <Brief style={{color:'red',paddingLeft:'20px'}}>¥{item.goodsPrice}</Brief>
               </div>  
             </Flex>
@@ -105,7 +110,7 @@ class Shop extends Component {
           </div>  
         })
       }
-      <Item onClick={this.showShipSelect} extra={showShip}>&nbsp;</Item>
+
     </List>
   }
 }
