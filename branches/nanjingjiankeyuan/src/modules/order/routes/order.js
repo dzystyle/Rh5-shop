@@ -321,7 +321,7 @@ class Order extends Component {
           {
             selectedAddress ?<div>
             <div style={{height: '0.6rem', width: '0.6rem',float:'left'}}>
-          <div className="qrdd-dd" style={{ backgroundImage: 'url(./assets/img/dingwei.png)', backgroundSize: 'cover', height: '0.33rem', width: '0.25rem',float:'left',marginTop:'0.4rem',marginLeft:'0.1rem' }}></div>
+          <div className="qrdd-dd" style={{ backgroundImage: 'url(./assets/img/dingwei.png)', backgroundSize: 'cover', height: '0.33rem', width: '0.25rem',float:'left',marginTop:'0.6rem',marginLeft:'0.1rem' }}></div>
           </div>
   {selectedAddress.trueName}&nbsp;&nbsp;<div style={{float:'left', fontSize:'0.32rem',fontweight:'600',paddingRight:'0.4rem'}}>报告接收人</div> {selectedAddress.mobPhone}
               <Brief>{selectedAddress.areaInfo} {selectedAddress.address}</Brief>
