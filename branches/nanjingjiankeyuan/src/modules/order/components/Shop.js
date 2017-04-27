@@ -98,14 +98,20 @@ class Shop extends Component {
             <div className="dnitemif">
             <div className="fon26">玩具产品检测服务</div>
             <div className="fon24" >套餐一</div>
-            <div className="fon24" >纸制造正副本</div>
+            <div className="fon24" >纸制造正副本 </div>
             </div>
               <div className="dnitempic">
                 <Brief style={{ paddingLeft:'20px',float:'left'}}>{item.goodsNum}</Brief>
 
                 <Brief style={{color:'red',paddingLeft:'20px'}}>¥{item.goodsPrice}</Brief>
-              </div>  
-            </Flex>
+                <div >
+  <Brief style={{ paddingLeft:'20px',float:'left',height:'0.6rem'}}>{item.goodsNum}</Brief>
+
+  <Brief style={{color:'red',paddingLeft:'20px',height:'0.7rem',lineHeight:'0.7rem'}}>¥{item.goodsPrice}</Brief>
+                </div>
+              </div>
+
+  </Flex>
           </Item>
           </div>  
         })
