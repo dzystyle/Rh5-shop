@@ -332,7 +332,7 @@ class Order extends Component {
   <List>
       {
         cartVoList.map((shop, index) => {
-            return <Shop  updateShip={this.updateShip} key={index} data={shop}></Shop>
+            return  <Shop  updateShip={this.updateShip} key={index} data={shop}></Shop>
 
         })
       }
