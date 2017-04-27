@@ -323,7 +323,7 @@ class Order extends Component {
             <div style={{height: '0.6rem', width: '0.6rem',float:'left'}}>
           <div className="qrdd-dd" style={{ backgroundImage: 'url(./assets/img/dingwei.png)', backgroundSize: 'cover', height: '0.33rem', width: '0.25rem',float:'left',marginTop:'0.6rem',marginLeft:'0.1rem' }}></div>
           </div>
-      <div style={{float:'left', fontSize:'0.32rem',fontweight:'600',paddingRight:'0.4rem'}}>报告接收人</div> <Brief className="nouinfo" style={{fontSize:'0.3rem'}}>{selectedAddress.trueName}&nbsp;&nbsp;{selectedAddress.mobPhone}</Brief>
+        <div style={{float:'left', fontSize:'0.32rem',fontweight:'600',paddingRight:'0.4rem'}}>报告接收人</div> <Brief className="nouinfo" style={{fontSize:'0.3rem',color:'#333',marginTop:'0px'}}>{selectedAddress.trueName}&nbsp;&nbsp;{selectedAddress.mobPhone}</Brief>
               <Brief style={{fontSize:'0.28rem'}}>{selectedAddress.areaInfo}{selectedAddress.address}</Brief>
             </div>: '请选择地址'
           }
@@ -333,7 +333,6 @@ class Order extends Component {
       {
         cartVoList.map((shop, index) => {
             return  <Shop  updateShip={this.updateShip} key={index} data={shop}></Shop>
-
         })
       }
 </List>
