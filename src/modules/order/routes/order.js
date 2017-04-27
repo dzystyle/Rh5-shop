@@ -337,6 +337,13 @@ class Order extends Component {
       }
 </List>
       <List>
+    <Item
+    onClick={()=>this.onClickInvoice(invoiceShow)}
+    arrow="horizontal"
+    extra={invoiceShow}>
+      发票信息
+      </Item>
+        <Item style={{color:'red'}} extra={`¥${priceData.totalGoodsPrice}`}>商品总价</Item>
         <Item
           onClick={this.onSelectPayTypeClick}  
           arrow="horizontal"
@@ -357,13 +364,7 @@ class Order extends Component {
         <Item
           extra={memberAvailable}
         >&nbsp;</Item>
-        <Item
-          onClick={()=>this.onClickInvoice(invoiceShow)}    
-          arrow="horizontal"
-          extra={invoiceShow}
-          >
-          发票信息
-        </Item>
+
       </List>
       <WhiteSpace></WhiteSpace>
       <Flex>
@@ -379,7 +380,7 @@ class Order extends Component {
         <Flex.Item style={{ flex: 1,background:'#fff'}}>
           <div>
             <div style={{height:'1.5rem',textAlign:'center',lineHeight:'2.5rem'}}>共需支付</div>
-            <div style={{color:'red',height:'1.5rem',textAlign:'center',lineHeight:'0.5rem'}}>{`¥${priceData.totalPrice}`}</div>
+
           </div>
         </Flex.Item>
         </Flex>
